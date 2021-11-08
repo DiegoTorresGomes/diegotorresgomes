@@ -1,6 +1,6 @@
 Olá! Eu me chamo Diego Torres e estou aprendendo diariamente sobre este universo da programação.
 
-🎓 - Estudante de Engenharia de Software;
+🎓 - Estudante de Análise e Desenvolvimento de Sistemas;
 
 🖱️💻⌨️ - Aperfeiçoando em Full Stack;
 
