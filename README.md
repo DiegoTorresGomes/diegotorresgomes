@@ -1,5 +1,5 @@
 <h3>Olá! Eu me chamo Diego Torres e estou aprendendo diariamente sobre este universo da programação.</h3>
-
+##
 <p>🎓 - Estudante de Análise e Desenvolvimento de Sistemas;</p>
 
 <p>🖱️💻⌨️ - Aperfeiçoando em Full Stack;</p>
@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/DiegoTorresGomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoTorresGomes&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTorresGomes&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiegoTorresGomes&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTorresGomes&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 
