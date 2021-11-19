@@ -46,8 +46,8 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/diegotorresgomes" target="_blank">
-    <img align="center" alt="Diego-Instagran" height="50" width="100" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" target="_blank"></a>
+  <a href="https://instagram.com/diegotorresgomes" target="_blank" >
+    <img align="center" alt="Diego-Instagran" height="50" width="100" target="_blank" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a>
  <a href="https://discord.gg/Diego Torres#2054">
    <img align="center" alt="Diego-Discord" height="50" width="100" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" target="_blank"></a>
  <a href="https://www.linkedin.com/in/diego-torres-gomes" target="_blank">
