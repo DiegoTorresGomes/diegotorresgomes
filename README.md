@@ -23,7 +23,7 @@
 </div>
 
 
-<div style="display: inline_block"  ><br>
+<div style="display: inline_block"><br>
 <img align="right" alt ="Gif-Guku" width="220" height="220" style="border-radius:30px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/ddm76zj-115c352d-c520-4e26-930a-8e2f95375ddb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGRtNzZ6ai0xMTVjMzUyZC1jNTIwLTRlMjYtOTMwYS04ZTJmOTUzNzVkZGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yNfW-1PJeNlKoycncNxNv5kvoxmw7rowjVn4fwL-sKI" />
 
 </div>
