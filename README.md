@@ -38,20 +38,22 @@
   <img align="center" alt="Diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Diego-CSharp" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
   <img align="center" alt="Diego-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  
-  
-
 </div>
   
   ##
  
 <div> 
+
   <a href="https://instagram.com/diegotorresgomes" target="_blank" >
-    <img align="center" alt="Diego-Instagran" height="50" width="100" target="_blank" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a>
+    <img align="center" alt="Diego-Instagran" height="50" width="100" target="_blank" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg">
+  </a>
+  
  <a href="https://discord.gg/Diego Torres#2054">
-   <img align="center" alt="Diego-Discord" height="50" width="100" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" target="_blank"></a>
- <a href="https://www.linkedin.com/in/diego-torres-gomes" target="_blank">
-   <img align="center" alt="Diego-linkedIn" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a> 
+   <img align="center" alt="Diego-Discord" height="50" width="100" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" target="_blank">
+ </a>
  
+ <a href="https://www.linkedin.com/in/diego-torres-gomes" target="_blank">
+   <img align="center" alt="Diego-linkedIn" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank">
+ </a>
  
 </div>
