@@ -20,6 +20,7 @@
   <a href="https://github.com/DiegoTorresGomes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DiegoTorresGomes&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTorresGomes&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  </a>
 </div>
 
 
@@ -53,7 +54,7 @@
  </a>
  
  <a href="https://www.linkedin.com/in/diego-torres-gomes" target="_blank">
-   <img align="center" alt="Diego-linkedIn" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank">
+   <img align="center" alt="Diego-linkedIn" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg">
  </a>
  
 </div>
