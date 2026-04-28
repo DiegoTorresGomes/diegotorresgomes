@@ -1,60 +1,130 @@
-<h3>Olá! Eu me chamo Diego Torres e estou aprendendo diariamente sobre este universo da programação.</h3>
+<div align="center">
 
-##
-<p>🎓 - Formado em Análise e Desenvolvimento de Sistemas, estudante de Engenharia de Software;</p>
+# Diego Torres Gomes
 
-<p>🖱️💻⌨️ - Aperfeiçoando em Full Stack;</p>
+### Software Engineer • Full Stack Developer • Technology & Infrastructure Enthusiast
 
-<p>✈️ - Apaixonado por viagens.</p>
+<p>
+Transformando experiência operacional, infraestrutura crítica e visão analítica em soluções modernas de software.
+</p>
 
-<p>De 2009 até os dias atuais, venho atuando em equipes de infraestrutura, operações, produção, assistência técnica, call centers, grandes eventos e facilities. Grande parte da minha experiência profissional foi desenvolvida em grandes empresas nacionais e multinacionais como: EBX, Marinha do Brasil, Claro NET, Grupo Globo e Ascenty Data Certers.
+<br>
 
-<p>Possuo um perfil analítico, proativo e solucionador de problemas. Reconhecido pela capacidade de aprendizado rápido, organização, planejamento, comunicação, interlocução entre as áreas e ótimo relacionamento interpessoal, pois são atributos que me possibilitam; foco no trabalho em equipe e resultados excelentes em minhas atividades.</p>
+<a href="https://github.com/DiegoTorresGomes">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DiegoTorresGomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTorresGomes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</a>
 
-<p>Hoje estou mudando de área, porém para uma área pela qual sou completamente apaixonado que é o desenvolvimento de softwares e CODAR</p>
+<br><br>
 
-##
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;Technology+%26+Infrastructure+Specialist;Building+modern+and+intelligent+solutions" />
 
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou apaixonado por tecnologia, desenvolvimento de software e inovação.
+
+Atualmente atuo como **Coordenador de Security Pleno na Ascenty Data Centers**, empresa referência em infraestrutura e colocation na América Latina, trabalhando diretamente com operações críticas, segurança, infraestrutura e gestão operacional.
+
+Minha trajetória profissional começou em 2009, passando por áreas como:
+
+- Infraestrutura
+- Operações
+- Produção
+- Facilities
+- Assistência Técnica
+- Call Centers
+- Grandes Eventos
+
+Ao longo dessa jornada, tive a oportunidade de atuar em empresas nacionais e multinacionais como:
+
+> **EBX • Marinha do Brasil • Claro NET • Grupo Globo • Ascenty Data Centers**
+
+Hoje direciono minha carreira para o universo do desenvolvimento de software, unindo experiência operacional, visão analítica e paixão por criar soluções inteligentes.
+
+---
+
+## 🎓 Formação
+
+- 🎓 Análise e Desenvolvimento de Sistemas
+- 🎓 Engenharia de Software
+- 🎓 Técnico em Informática — FAETEC/RJ
+
+---
+
+## 🚀 Atualmente estudando e desenvolvendo
+
+- Full Stack Development
+- React & Node.js
+- APIs REST
+- Arquitetura de Software
+- Inteligência Artificial
+- Automação de Processos
+- Sistemas Inteligentes
+- Cloud & Infraestrutura
+
+---
+
+## 🧠 Perfil profissional
+
+✔️ Analítico  
+✔️ Proativo  
+✔️ Solucionador de problemas  
+✔️ Aprendizado rápido  
+✔️ Comunicação e liderança  
+✔️ Planejamento e organização  
+✔️ Trabalho em equipe  
+
+---
+
+## ⚡ Tecnologias
 
 <div align="center">
-  <a href="https://github.com/DiegoTorresGomes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DiegoTorresGomes&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTorresGomes&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  </a>
+
+<img align="center" alt="HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="center" alt="NodeJS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="CSharp" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img align="center" alt="CPP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
 </div>
 
+---
 
-<div style="display: inline_block"><br>
-<img align="right" alt ="Gif-Guku" width="220" height="220" style="border-radius:30px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/ddm76zj-115c352d-c520-4e26-930a-8e2f95375ddb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGRtNzZ6ai0xMTVjMzUyZC1jNTIwLTRlMjYtOTMwYS04ZTJmOTUzNzVkZGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yNfW-1PJeNlKoycncNxNv5kvoxmw7rowjVn4fwL-sKI" />
+## 🌎 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/diego-torres-gomes" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF">
+</a>
+
+<a href="https://instagram.com/diegotorresgomes" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58A6FF">
+</a>
+
+<a href="mailto:diegotorresgomes@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF">
+</a>
 
 </div>
 
-##
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diego-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diego-NodeJs" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img align="center" alt="Diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Diego-CSharp" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
-  <img align="center" alt="Diego-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</div>
-  
-  ##
- 
-<div> 
+<div align="center">
 
-  <a href="https://instagram.com/diegotorresgomes" target="_blank" >
-    <img align="center" alt="Diego-Instagran" height="50" width="100" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg">
-  </a>
-  
- <a href="https://discord.gg/Diego Torres#2054" target="_blank" >
-   <img align="center" alt="Diego-Discord" height="50" width="100" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg">
- </a>
- 
- <a href="https://www.linkedin.com/in/diego-torres-gomes" target="_blank">
-   <img align="center" alt="Diego-linkedIn" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg">
- </a>
- 
+### ✈️ Apaixonado por tecnologia, viagens e construção de soluções inteligentes.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=DiegoTorresGomes&color=58A6FF&style=flat-square" />
+
 </div>
