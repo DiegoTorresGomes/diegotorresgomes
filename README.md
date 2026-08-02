@@ -103,13 +103,7 @@ descomente o bloco abaixo e troque NOME-DO-REPO pelo nome real:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ COBRA COMENDO CONTRIBUIÇÕES ═══════════════
-A COBRA SÓ FUNCIONA DEPOIS DE CONFIGURAR A GITHUB ACTION:
-1. Salve o arquivo snake.yml em .github/workflows/snake.yml no repositório DiegoTorresGomes/DiegoTorresGomes
-2. Vá em Actions → "Generate snake animation" → Run workflow
-3. Espere terminar (cria a branch "output")
-4. Descomente este bloco inteiro (apague esta explicação e os marcadores de comentário)
-
+<!-- ═══════════════ COBRA COMENDO CONTRIBUIÇÕES ═══════════════ -->
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> Contribuições
 
 <div align="center">
@@ -122,7 +116,6 @@ A COBRA SÓ FUNCIONA DEPOIS DE CONFIGURAR A GITHUB ACTION:
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-═══════════════ FIM DO BLOCO DA COBRA ═══════════════ -->
 
 <!-- ═══════════════ CONTATO ═══════════════ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Conecte-se comigo
