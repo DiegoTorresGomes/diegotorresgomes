@@ -60,18 +60,20 @@ Infraestrutura, operações, produção, facilities, assistência técnica, call
 <!-- ═══════════════ PROJETOS ═══════════════ -->
 ## <img src="https://media.giphy.com/media/UQaRUOLveyjNC0oBmn/giphy.gif" width="35"> Projetos em destaque
 
-<!-- Substitua "repo" pelos nomes dos seus repositórios reais -->
+🚧 *Em construção — novos projetos chegando em breve!*
+
+<!--
+QUANDO TIVER REPOSITÓRIOS PARA DESTACAR, apague a linha "Em construção" acima,
+descomente o bloco abaixo e troque NOME-DO-REPO pelo nome real:
 
 <div align="center">
 
-<a href="https://github.com/DiegoTorresGomes/repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoTorresGomes&repo=repo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/DiegoTorresGomes/repo2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoTorresGomes&repo=repo2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+<a href="https://github.com/DiegoTorresGomes/NOME-DO-REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoTorresGomes&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 </a>
 
 </div>
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -101,7 +103,13 @@ Infraestrutura, operações, produção, facilities, assistência técnica, call
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ COBRA COMENDO CONTRIBUIÇÕES ═══════════════ -->
+<!-- ═══════════════ COBRA COMENDO CONTRIBUIÇÕES ═══════════════
+A COBRA SÓ FUNCIONA DEPOIS DE CONFIGURAR A GITHUB ACTION:
+1. Salve o arquivo snake.yml em .github/workflows/snake.yml no repositório DiegoTorresGomes/DiegoTorresGomes
+2. Vá em Actions → "Generate snake animation" → Run workflow
+3. Espere terminar (cria a branch "output")
+4. Descomente este bloco inteiro (apague esta explicação e os marcadores de comentário)
+
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> Contribuições
 
 <div align="center">
@@ -114,6 +122,7 @@ Infraestrutura, operações, produção, facilities, assistência técnica, call
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+═══════════════ FIM DO BLOCO DA COBRA ═══════════════ -->
 
 <!-- ═══════════════ CONTATO ═══════════════ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Conecte-se comigo
