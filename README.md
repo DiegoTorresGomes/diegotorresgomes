@@ -1,130 +1,136 @@
+<!-- ═══════════════ HEADER ANIMADO COM ONDAS ═══════════════ -->
 <div align="center">
 
-# Diego Torres Gomes
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2980,100:58a6ff&height=220&section=header&text=Diego%20Torres%20Gomes&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Security%20%40%20Ascenty%20Data%20Centers&descSize=18&descAlignY=55" width="100%"/>
 
-### Software Engineer • Full Stack Developer • Technology & Infrastructure Enthusiast
-
-<p>
-Transformando experiência operacional, infraestrutura crítica e visão analítica em soluções modernas de software.
-</p>
+<!-- ═══════════════ TEXTO DIGITANDO ═══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Full+Stack+Developer;%E2%9A%9B%EF%B8%8F+React+%7C+Node.js+%7C+Python;%F0%9F%94%92+De+infraestrutura+cr%C3%ADtica+para+c%C3%B3digo;%F0%9F%A4%96+Explorando+IA+e+automa%C3%A7%C3%A3o;%E2%9C%A8+Construindo+solu%C3%A7%C3%B5es+inteligentes" />
 
 <br>
 
-<a href="https://github.com/DiegoTorresGomes">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DiegoTorresGomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTorresGomes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;Technology+%26+Infrastructure+Specialist;Building+modern+and+intelligent+solutions" />
+<!-- Badges de status -->
+<img src="https://img.shields.io/badge/Focus-Full%20Stack-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Location-Rio%20de%20Janeiro%20🇧🇷-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=DiegoTorresGomes&color=58A6FF&style=for-the-badge&label=VISITAS" />
 
 </div>
 
----
+<!-- Divisor animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👨‍💻 Sobre mim
+<!-- ═══════════════ SOBRE MIM ═══════════════ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Sobre mim
 
-Sou apaixonado por tecnologia, desenvolvimento de software e inovação.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
 
-Atualmente atuo como **Coordenador de Security Pleno na Ascenty Data Centers**, empresa referência em infraestrutura e colocation na América Latina, trabalhando diretamente com operações críticas, segurança, infraestrutura e gestão operacional.
+- 🔭 **Coordenador de Security Pleno** na [Ascenty Data Centers](https://ascenty.com) — operações críticas, segurança e gestão operacional
+- 💻 Em **transição de carreira para desenvolvimento de software**
+- 🏗️ Construo **aplicações internas e dashboards** que automatizam processos
+- 🎓 **Análise e Desenvolvimento de Sistemas** • **Engenharia de Software** • Técnico em Informática (FAETEC/RJ)
+- 🌱 Estudando: **Arquitetura de Software, IA e Cloud**
+- ⚡ 15+ anos de bagagem operacional: *entendo o problema porque eu já fui o usuário*
 
-Minha trajetória profissional começou em 2009, passando por áreas como:
+<details>
+<summary><b>📜 Trajetória profissional (desde 2009)</b></summary>
+<br>
 
-- Infraestrutura
-- Operações
-- Produção
-- Facilities
-- Assistência Técnica
-- Call Centers
-- Grandes Eventos
-
-Ao longo dessa jornada, tive a oportunidade de atuar em empresas nacionais e multinacionais como:
+Infraestrutura, operações, produção, facilities, assistência técnica, call centers e grandes eventos:
 
 > **EBX • Marinha do Brasil • Claro NET • Grupo Globo • Ascenty Data Centers**
 
-Hoje direciono minha carreira para o universo do desenvolvimento de software, unindo experiência operacional, visão analítica e paixão por criar soluções inteligentes.
+</details>
 
----
+<br clear="right"/>
 
-## 🎓 Formação
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- 🎓 Análise e Desenvolvimento de Sistemas
-- 🎓 Engenharia de Software
-- 🎓 Técnico em Informática — FAETEC/RJ
-
----
-
-## 🚀 Atualmente estudando e desenvolvendo
-
-- Full Stack Development
-- React & Node.js
-- APIs REST
-- Arquitetura de Software
-- Inteligência Artificial
-- Automação de Processos
-- Sistemas Inteligentes
-- Cloud & Infraestrutura
-
----
-
-## 🧠 Perfil profissional
-
-✔️ Analítico  
-✔️ Proativo  
-✔️ Solucionador de problemas  
-✔️ Aprendizado rápido  
-✔️ Comunicação e liderança  
-✔️ Planejamento e organização  
-✔️ Trabalho em equipe  
-
----
-
-## ⚡ Tecnologias
+<!-- ═══════════════ TECNOLOGIAS ═══════════════ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tecnologias
 
 <div align="center">
 
-<img align="center" alt="HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="center" alt="NodeJS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="CSharp" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img align="center" alt="CPP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cs,cpp,git,github,vscode,linux&perline=6" />
+</a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌎 Conecte-se comigo
+<!-- ═══════════════ PROJETOS ═══════════════ -->
+## <img src="https://media.giphy.com/media/UQaRUOLveyjNC0oBmn/giphy.gif" width="35"> Projetos em destaque
+
+<!-- Substitua "repo" pelos nomes dos seus repositórios reais -->
+
+<div align="center">
+
+<a href="https://github.com/DiegoTorresGomes/repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoTorresGomes&repo=repo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+</a>
+<a href="https://github.com/DiegoTorresGomes/repo2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoTorresGomes&repo=repo2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════ ESTATÍSTICAS ═══════════════ -->
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DiegoTorresGomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&locale=pt-br"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTorresGomes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&locale=pt-br"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=DiegoTorresGomes&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&locale=pt_BR"/>
+
+<br><br>
+
+<!-- Gráfico de atividade -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoTorresGomes&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true" width="100%"/>
+
+<br><br>
+
+<!-- Troféus -->
+<img src="https://github-profile-trophy.vercel.app/?username=DiegoTorresGomes&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════ COBRA COMENDO CONTRIBUIÇÕES ═══════════════ -->
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoTorresGomes/DiegoTorresGomes/output/github-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/DiegoTorresGomes/DiegoTorresGomes/output/github-snake.svg">
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════ CONTATO ═══════════════ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Conecte-se comigo
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/diego-torres-gomes" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 <a href="https://instagram.com/diegotorresgomes" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58A6FF">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
 <a href="mailto:diegotorresgomes@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF">
+  <img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=maildotru&logoColor=0d1117">
 </a>
 
 </div>
 
----
-
-<div align="center">
-
-### ✈️ Apaixonado por tecnologia, viagens e construção de soluções inteligentes.
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=DiegoTorresGomes&color=58A6FF&style=flat-square" />
-
-</div>
+<!-- ═══════════════ FOOTER ANIMADO ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a2980,100:0d1117&height=140&section=footer" width="100%"/>
